@@ -47,7 +47,7 @@ const SERVICES = [
 
 export default function App() {
   const [currentPage, setCurrentPage] = useState<'home' | 'team'>('home');
-  const [imgSrc, setImgSrc] = useState("/src/assets/images/janneke_pasfoto.jpg");
+  const [imgSrc, setImgSrc] = useState("/images/janneke_pasfoto.jpg");
   const [isScrolled, setIsScrolled] = useState(false);
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const [modalContent, setModalContent] = useState<{ title: string; content: string } | null>(null);
