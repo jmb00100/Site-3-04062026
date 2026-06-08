@@ -291,24 +291,14 @@ export default function App() {
           transition={{ duration: 1, ease: "easeOut" }}
           className="z-10 max-w-5xl"
         >
-          <span className="block text-[10px] md:text-xs uppercase tracking-[0.4em] font-bold text-legal-gold mb-16 mt-8">
-  Berendsen Advocatuur | Vastgoedrecht
-</span>
-
-<h1 className="serif text-5xl md:text-[5.5rem] font-light leading-[1.1] text-legal-navy mb-12 tracking-tight px-4">
-  Vastgoed Advocaat Nederland <br />
-  <span className="italic font-normal text-legal-gold">
-    Berendsen Advocatuur
-  </span>
-</h1>
-
-<p className="max-w-3xl mx-auto text-lg text-legal-navy/80 mb-12 leading-relaxed">
-  Gespecialiseerd in vastgoedrecht, huurrecht,
-  vastgoedtransacties, contractenrecht en vastgoedgeschillen
-  voor cliënten in Amsterdam en heel Nederland.
-</p>
-
-<a
+          <<span className="block text-[10px] md:text-xs uppercase tracking-[0.4em] font-bold text-legal-gold mb-16 mt-8">
+            Berendsen Advocatuur | Vastgoedrecht
+          </span>
+          <h1 className="serif text-5xl md:text-[5.5rem] font-light leading-[1.1] text-legal-navy mb-12 tracking-tight px-4">
+            Scherpte en Focus <br />
+            <span className="italic font-normal text-legal-gold">in Vastgoedrecht.</span>
+          </h1>
+            
   href="#contact"
   className="inline-block px-12 py-5 bg-legal-navy text-legal-slate rounded-full font-bold uppercase tracking-widest text-[10px] hover:bg-legal-gold hover:scale-105 transition-all shadow-xl shadow-legal-navy/10"
 >
