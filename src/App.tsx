@@ -291,7 +291,7 @@ export default function App() {
           transition={{ duration: 1, ease: "easeOut" }}
           className="z-10 max-w-5xl"
         >
-          <<span className="block text-[10px] md:text-xs uppercase tracking-[0.4em] font-bold text-legal-gold mb-16 mt-8">
+      <<span className="block text-[10px] md:text-xs uppercase tracking-[0.4em] font-bold text-legal-gold mb-16 mt-8">
             Berendsen Advocatuur | Vastgoedrecht
           </span>
           <h1 className="serif text-5xl md:text-[5.5rem] font-light leading-[1.1] text-legal-navy mb-12 tracking-tight px-4">
