@@ -436,7 +436,7 @@ export default function App() {
                   }}
                   className="inline-flex items-center gap-2 px-8 py-4 bg-legal-navy text-legal-slate rounded-full font-bold uppercase tracking-widest text-[10px] hover:bg-legal-gold hover:scale-105 transition-all shadow-md shadow-legal-navy/10 cursor-pointer"
                 >
-                  â† Terug naar de voorpagina
+                  Terug naar de voorpagina
                 </button>
               </div>
             </div>
