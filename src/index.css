@@ -14,8 +14,12 @@
 @layer base {
   html {
     scroll-behavior: smooth;
+    overflow-x: hidden;
+    max-width: 100%;
   }
   body {
+    overflow-x: hidden;
+    max-width: 100%;
     @apply bg-legal-slate text-legal-navy font-sans antialiased selection:bg-legal-gold/20;
   }
 }
