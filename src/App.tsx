@@ -523,7 +523,7 @@ export default function App() {
                 >
                   <span className="text-legal-gold border-b border-legal-gold/30 pb-3 mb-6 inline-block text-lg uppercase tracking-widest font-bold">Persoonlijke aanpak</span>
                   <div className="text-sm font-medium leading-relaxed opacity-90">
-                    Toegankelijke en persoonlijke begeleiding waarbij de belangen van de cliÃ«nt het uitgangspunt vormen. Met korte lijnen en een op de situatie toegesneden ondersteuning.
+                    Toegankelijke en persoonlijke begeleiding waarbij de belangen van de client het uitgangspunt vormen. Met korte lijnen en een op de situatie toegesneden ondersteuning.
                   </div>
                 </motion.div>
                 <motion.div
