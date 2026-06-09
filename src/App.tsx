@@ -379,7 +379,7 @@ export default function App() {
                 Berendsen Advocatuur is een gespecialiseerd niche-kantoor onder leiding van Janneke Berendsen, dat zich concentreert op de juridische dynamiek van vastgoed. 
               </p>
               <p>
-                Er wordt geadviseerd en geprocedeerd over vrijwel alle aspecten binnen het vastgoedrecht en huurrecht. Door de jarenlange ervaring wordt er snel en efficiÃ«nt gewerkt.
+                Er wordt geadviseerd en geprocedeerd over vrijwel alle aspecten binnen het vastgoedrecht en huurrecht. Door de jarenlange ervaring wordt er snel en efficient gewerkt.
               </p>
             </div>
           </div>
