@@ -17,6 +17,7 @@
     overflow-x: hidden;
     max-width: 100%;
     cursor: default;
+    user-select: none;
   }
   body {
     overflow-x: hidden;
