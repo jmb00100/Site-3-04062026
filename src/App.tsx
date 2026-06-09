@@ -20,7 +20,6 @@ import {
   Globe
 } from 'lucide-react';
 
-const jannekeImg = "/src/assets/images/janneke_pasfoto2.jpg";
 
 const SERVICES = [
   {
