@@ -248,7 +248,7 @@ export default function App() {
                         }}
                         className="py-2 text-xs font-bold text-legal-gold tracking-widest hover:text-legal-navy transition-colors text-center w-full uppercase"
                       >
-                        â€” Team
+                        Team
                       </button>
                     </div>
                   );
