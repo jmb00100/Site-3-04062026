@@ -409,7 +409,7 @@ export default function App() {
 
               <div className="space-y-6 text-legal-navy/80 leading-relaxed text-sm md:text-base mb-12">
                 <p>
-                  Janneke Berendsen is oprichter en advocaat bij Berendsen Advocatuur. Zij adviseert en procedeert op het gebied van (commercieel) vastgoed, bouwrecht en huurrecht. Met haar deskundigheid en pragmatische instelling begeleidt zij cliÃ«nten bij aan- en verkoop, huur- en bouwgeschillen en complexe vastgoedrechtelijke trajecten.
+                  Janneke Berendsen is oprichter en advocaat bij Berendsen Advocatuur. Zij adviseert en procedeert op het gebied van (commercieel) vastgoed, bouwrecht en huurrecht. Met haar deskundigheid en pragmatische instelling begeleidt zij clienten bij aan- en verkoop, huur- en bouwgeschillen en complexe vastgoedrechtelijke trajecten.
                 </p>
                 <p>
                   Zij heeft een ruime ervaring opgebouwd met het schrijven, beoordelen en uitonderhandelen van onder meer koopovereenkomsten, huurovereenkomsten, aannemingsovereenkomsten en strategische samenwerkingsovereenkomsten. Daarnaast adviseert zij geregeld bij due diligence onderzoeken, vastgoedtransacties, alsmede overige vraagstukken op het snijvlak van vastgoedrecht en verbintenissenrecht.
